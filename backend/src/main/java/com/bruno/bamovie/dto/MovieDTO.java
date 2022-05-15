@@ -1,6 +1,9 @@
 package com.bruno.bamovie.dto;
 
+import java.util.Set;
+
 import com.bruno.bamovie.entities.Movie;
+import com.bruno.bamovie.entities.Score;
 
 public class MovieDTO {
 	
@@ -68,5 +71,7 @@ public class MovieDTO {
 	public void setImage(String image) {
 		this.image = image;
 	}
+
+	
 	
 }
