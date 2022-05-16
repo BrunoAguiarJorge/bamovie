@@ -1,6 +1,5 @@
 # bamovie
-## This is an web app developed using java/Spring Boot and React/Typescript with the latest technologies and frameworks. 
-From scratch to deployment using CI/CD. 
+## This is an web app developed using java/Spring Boot and React/Typescript with the latest technologies and frameworks. From scratch to deployment using CI/CD. 
 
 #### Back end development and testing tools and resources:
 
@@ -20,11 +19,6 @@ From scratch to deployment using CI/CD.
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-#### Mobile:
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Testing:
 
@@ -48,7 +42,7 @@ From scratch to deployment using CI/CD.
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/b87a8a09-475e-45a0-bc7c-b95b8e1f7382/deploy-status)
+![Netlify Status]
 
 #Author
 Bruno Aguiar
